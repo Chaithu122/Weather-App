@@ -27,6 +27,27 @@ The objective of this project is This Weather App allows users to search for the
 - **JavaScript (ES6)** — Logic and API integration
 - **OpenWeather API** — Real-time weather data source
 
+## 📂 Project Structure
+
+```
+Weather-App
+│
+├── index.html
+├── style.css
+├── script.js
+│
+├── assets
+│   ├── icons
+│   │   └── (weather icons here)
+│   └── images
+│       └── (background or logo)
+│
+└── README.md
+```
+
+
+
+
 
 
 
