@@ -127,10 +127,30 @@ This project uses the **OpenWeatherMap API** to fetch real-time weather data.
 - Uses free API plan (limited requests per day)
 
   ## 👨‍💻 Author
- Name:Krishna Chaithanya Pigilapu
+- Name: Krishna Chaithanya Pigilapu
+- Role: Frontend Developer (Fresher)
+- Tech Skills: HTML · CSS · JavaScript 
+- GitHub:https://github.com/Chaithu122
+- LinkedIn:https://linkedin.com/in/krishna-chaithanya-pigilapu-655563349
+
+  ## 🤝 Connect With Me
+
+  Thanks for checking out my project!  
+  If you think I could be a good fit or would like to talk more, feel free to connect:
 - 🔗 [LinkedIn](https://www.linkedin.com/in/krishna-chaithanya-pigilapu-655563349/)
 - 📧 [Email](pigilapuchaithanya123@gmail.com)
 - 💻 [GitHub](https://github.com/Chaithu122)
+
+  ### ✉ Note
+
+ - I am a passionate fresher with strong fundamentals in HTML, CSS, JavaScript and API integration.  
+ - This project is a reflection of my ability to build functional UI from scratch and write clean, understandable code.  
+ - I am actively looking for entry-level roles — I would be happy to connect and discuss further.
+
+   **Thank you for your time!**
+
+
+
 
 
 
