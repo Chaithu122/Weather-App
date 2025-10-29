@@ -1,4 +1,4 @@
-# <img src="https://cdn-icons-png.flaticon.com/512/1163/1163661.png" width="40" /> Weather App
+## <img src="https://cdn-icons-png.flaticon.com/512/1163/1163661.png" width="40" /> Weather App
 
 ## 📝 Description
 
@@ -44,6 +44,116 @@ Weather-App
 │
 └── README.md
 ```
+
+## 🛠 Installation & Setup
+
+- Since this project is built using only HTML, CSS, and JavaScript, no additional installation or server setup is required.
+
+- Follow the steps below to run it locally:
+
+
+## 1. **Create a New Project Folder**
+
+  - Create a folder named weather-app in your system
+  - Open the folder in VS Code
+
+## 2. Create Required Files
+
+ - index.html
+ - style.css
+ - script.js
+
+## 3. Write the Code
+
+ - Add HTML structure in index.html
+ - Add styles in style.css
+ - Add JavaScript logic and API code in script.js
+
+## 4. Add Your OpenWeather API Key
+
+- Open script.js
+- Replace the placeholder with your actual key:
+     javascript
+     const apikey = "YOUR_API_KEY";
+
+## 5. Run the Project
+
+ - Right-click on index.html → **Open with Live Server**
+- or simply open index.html in browser
+
+## 📌 Usage
+
+1. Open the application in your browser using **index.html**
+2. Enter the name of any city in the search input field
+3. Click on the **Search** button or press **Enter**
+4. The app will display:
+- Current temperature
+- Weather condition (Cloudy, Rainy, Sunny, etc.)
+- Humidity and wind speed
+5. Enter another city to check its weather as well
+
+## 🌐 API Used
+
+This project uses the **OpenWeatherMap API** to fetch real-time weather data.
+
+- API Website: https://openweathermap.org/api
+- API returns JSON data containing temperature, weather conditions, humidity, wind speed, etc.
+- The data is requested using JavaScript **fetch()** method.
+
+  Example API call format:
+
+  ```
+  https://api.openweathermap.org/data/2.5/weather?q={CITY_NAME}&appid={API_KEY}&units=metric
+  ```
+
+## 📸 Screenshots
+
+- Below are some preview images of the application
+
+- 🏠 **Home Screen**
+
+  <img src="https://github.com/user-attachments/assets/336a4cc7-7688-497e-bca3-c5b919eea19e" alt="homescreen"/>
+
+- 🌦 **Weather Result Screen**
+
+  <img src="https://github.com/user-attachments/assets/fc75d027-0fab-476e-b2a1-4c5c3d721a9b" alt="nellore"/>
+  <img src="https://github.com/user-attachments/assets/80542940-5f5a-4e30-adbd-99aa54ecb422" alt="hyderabad"/>
+  <img src="https://github.com/user-attachments/assets/0d1b031e-25fd-4680-8465-34dac3cff902" alt="chennai"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
