@@ -120,6 +120,20 @@ This project uses the **OpenWeatherMap API** to fetch real-time weather data.
   <img src="https://github.com/user-attachments/assets/80542940-5f5a-4e30-adbd-99aa54ecb422" alt="hyderabad"/>
   <img src="https://github.com/user-attachments/assets/0d1b031e-25fd-4680-8465-34dac3cff902" alt="chennai"/>
 
+  ## ⚠ Known Limitations
+
+- Works only with active internet connection
+- City search must be manually typed (no auto-suggestion)
+- Uses free API plan (limited requests per day)
+
+  ## 👨‍💻 Author
+ Name:Krishna Chaithanya Pigilapu
+- 🔗 [LinkedIn](https://www.linkedin.com/in/krishna-chaithanya-pigilapu-655563349/)
+- 📧 [Email](pigilapuchaithanya123@gmail.com)
+- 💻 [GitHub](https://github.com/Chaithu122)
+
+
+
 
 
 
