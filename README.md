@@ -12,6 +12,8 @@ The objective of this project is This Weather App allows users to search for the
 ## 🔗 Live Demo
 🌐 [LiveDemo]( https://chaithu122.github.io/Weather-App/)
 
+
+
 ## ✨ Features
 
 - 🔍 Search weather by city name
